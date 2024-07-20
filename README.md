@@ -1,3 +1,5 @@
+## Run the Code in Google Colab to get the Outputs!!!
+
 # OptimalPathFinding
 
 The A* algorithm is a widely used pathfinding algorithm in computer science and artificial intelligence. It is an informed search algorithm that efficiently finds the shortest path between two points on a graph or grid. A* combines the advantages of Dijkstra's algorithm (guaranteed shortest path) and greedy best-first search (efficiency) by using a heuristic to guide its search.
