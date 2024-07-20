@@ -1,5 +1,3 @@
-## Run the Code in Google Colab to get the Outputs!!!
-
 ## Running the Code on Google Colab
 
 To run the Python script (.py file) on Google Colab, follow these steps:
@@ -20,6 +18,8 @@ To run the Python script (.py file) on Google Colab, follow these steps:
 
      python
      !python astar-optimal-grid.py
+
+## If the above steps don't work, copy the code from the python file and paste it in Google Colab and run the code.
 
 # OptimalPathFinding
 
