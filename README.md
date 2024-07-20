@@ -14,12 +14,8 @@ To run the Python script (.py file) on Google Colab, follow these steps:
    - Click on Upload and select the .py file from your local machine.
 
 4. *Run the Python Script:*
-   - You can run the Python script by executing the following command in a code cell:
+   - Copy the code from the uploaded python file into a code cell and run to get the output
 
-     python
-     !python astar-optimal-grid.py
-
-## If the above steps don't work, copy the code from the python file and paste it in Google Colab and run the code.
 
 # OptimalPathFinding
 
