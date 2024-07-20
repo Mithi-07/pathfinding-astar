@@ -22,6 +22,7 @@ Program Components
 - `main`: Creates an interactive GUI using IPywidgets for users to input grid dimensions, add obstacles, set start and goal positions, and visualize the pathfinding process. When the visualize button is clicked, the grid, obstacles, start, goal, and optimal path are displayed using Matplotlib.
 
 Outputs
+
 ![image](https://github.com/user-attachments/assets/01f766eb-f470-44a1-ae79-5e798f064205)
 
 ![image](https://github.com/user-attachments/assets/fb7d8a43-b307-4ccf-b39b-e5fabe3bf4e4)
