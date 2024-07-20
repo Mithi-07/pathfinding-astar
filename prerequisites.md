@@ -1,4 +1,4 @@
-#If you don't have python installed in your computer or you don't have any one of the libraries installed, you can run the program in Google Collab to get the output.
+If you don't have python installed in your computer or you don't have any one of the libraries installed, you can run the program in Google Collab to get the output.
 
 ## Installation
 
