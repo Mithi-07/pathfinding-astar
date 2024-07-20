@@ -1,5 +1,4 @@
 # OptimalPathFinding
-This Repository contains the code to implement an A* search algorithm to find the shortest path in a grid-based environment. The algorithm should be able to navigate around obstacles while minimizing the total cost of reaching the goal.
 
 The A* algorithm is a widely used pathfinding algorithm in computer science and artificial intelligence. It is an informed search algorithm that efficiently finds the shortest path between two points on a graph or grid. A* combines the advantages of Dijkstra's algorithm (guaranteed shortest path) and greedy best-first search (efficiency) by using a heuristic to guide its search.
 
