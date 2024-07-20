@@ -1,4 +1,4 @@
-If you don't have python installed in your computer or you don't have any one of the libraries installed, you can run the program in Google Collab to get the output.
+#If you don't have python installed in your computer or you don't have any one of the libraries installed, you can run the program in Google Collab to get the output.
 
 ## Installation
 
@@ -19,15 +19,15 @@ You can install the necessary libraries using `pip`. Open your terminal or comma
    pip install ipywidgets
    jupyter nbextension enable --py widgetsnbextension
 
-   **If you are using JupyterLab, also run**:
+3. **If you are using JupyterLab, also run**:
    ```bash
    jupyter labextension install @jupyter-widgets/jupyterlab-manager
 
-3. **numpy**:
+4. **numpy**:
    ```bash
    pip install numpy
 
-4. **Verify Installation: To verify that the installation was successful, you can try importing the libraries in a Python script or in a Jupyter notebook:**:
+5. **Verify Installation: To verify that the installation was successful, you can try importing the libraries in a Python script or in a Jupyter notebook:**:
    ```bash
    import matplotlib.pyplot as plt
    import ipywidgets as widgets
