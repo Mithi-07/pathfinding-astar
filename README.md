@@ -6,6 +6,7 @@ A* selects nodes from the open list with the lowest combined cost (actual cost +
 
 One key feature of A* is its optimality and completeness under certain conditions, ensuring that it will always find the shortest path if one exists. However, the performance of A* heavily depends on the quality of the heuristic function used. A well-designed heuristic can significantly improve search efficiency by guiding A* towards the goal more effectively.
 
+Program Components
 1. Class Definitions:
 - `Cell`: Represents a single cell in the grid. Each cell has attributes for its coordinates (`x`, `y`) and whether it is traversable.
 - `Grid`: Initializes a grid of cells with a specified width and height. It also includes functions to manipulate individual cells, such as setting them as obstacles or checking their traversability status.
