@@ -1,5 +1,26 @@
 ## Run the Code in Google Colab to get the Outputs!!!
 
+## Running the Code on Google Colab
+
+To run the Python script (.py file) on Google Colab, follow these steps:
+
+1. *Open Google Colab:*
+   - Go to [Google Colab](https://colab.research.google.com/).
+
+2. *Create a New Notebook:*
+   - Click on File in the menu.
+   - Select New notebook to create a new Colab notebook.
+
+3. *Upload the Python Script:*
+   - In the Colab notebook, click on the Files icon on the left sidebar (a folder icon).
+   - Click on Upload and select the .py file from your local machine.
+
+4. *Run the Python Script:*
+   - You can run the Python script by executing the following command in a code cell:
+
+     python
+     !python astar-optimal-grid.py
+
 # OptimalPathFinding
 
 The A* algorithm is a widely used pathfinding algorithm in computer science and artificial intelligence. It is an informed search algorithm that efficiently finds the shortest path between two points on a graph or grid. A* combines the advantages of Dijkstra's algorithm (guaranteed shortest path) and greedy best-first search (efficiency) by using a heuristic to guide its search.
