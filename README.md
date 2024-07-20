@@ -20,3 +20,8 @@ Program Components
 - `reconstruct_path`: Reconstructs the optimal path from the `came_from` dictionary generated during A* search. It traces the parent cells backward from the goal cell to the starting cell.
 6. Graphical User Interface (GUI):
 - `main`: Creates an interactive GUI using IPywidgets for users to input grid dimensions, add obstacles, set start and goal positions, and visualize the pathfinding process. When the visualize button is clicked, the grid, obstacles, start, goal, and optimal path are displayed using Matplotlib.
+
+Outputs
+![image](https://github.com/user-attachments/assets/01f766eb-f470-44a1-ae79-5e798f064205)
+
+![image](https://github.com/user-attachments/assets/fb7d8a43-b307-4ccf-b39b-e5fabe3bf4e4)
