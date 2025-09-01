@@ -1,6 +1,6 @@
 ## Running the Code on Google Colab
 
-To run the Python script (.py file) on Google Colab, follow these steps:
+To run the Python script (.py file) on Google Colab, follow the steps below:
 
 1. *Open Google Colab:*
    - Go to [Google Colab](https://colab.research.google.com/).
