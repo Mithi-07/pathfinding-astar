@@ -10,7 +10,7 @@ To run the Python script (.py file) on Google Colab, follow the steps below:
    - Select New notebook to create a new Colab notebook.
 
 3. *Upload the Python Script:*
-   - In the Colab notebook, click on the Files icon on the left sidebar (a folder icon).
+   - Click on the Files icon on the left sidebar (a folder icon).
    - Click on Upload and select the .py file from your local machine.
 
 4. *Run the Python Script:*
